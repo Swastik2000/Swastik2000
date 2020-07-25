@@ -22,6 +22,9 @@
   <img align="left" alt="Swastik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+
+<br/>
+<br/>
 - 🔭 I’m currently working on INdlz App
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about any tech related stuff or about social or poltical issues.
