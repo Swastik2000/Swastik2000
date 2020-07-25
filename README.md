@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Swastik2000/Swastik2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
