@@ -25,6 +25,8 @@
 
 <br/>
 <br/>
+
+
 - 🔭 I’m currently working on INdlz App
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about any tech related stuff or about social or poltical issues.
