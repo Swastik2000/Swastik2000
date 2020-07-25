@@ -2,14 +2,31 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Swastik2000&label=Views&color=blue&style=plastic" alt="Swastik2000" /> </p>
 
-Here are some ideas to get you started:
+
+<a href="https://twitter.com/swastikm2000">
+  <img align="left" alt="Swastik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/swastikmishra2000">
+  <img align="left" alt="Swastik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Swastik2000">
+  <img align="left" alt="Swastik's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/swastikmishra">
+  <img align="left" alt="Swastik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/swastik_._mishra/">
+  <img align="left" alt="Swastik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/swastik.mishra.77/">
+  <img align="left" alt="Swastik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 - 🔭 I’m currently working on INdlz App
 - 🌱 I’m currently learning Flutter
-
 - 💬 Ask me about any tech related stuff or about social or poltical issues.
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/His/Mr.
+- 📫 How to reach me: Through above social media platforms
+- 😄 Pronouns: He/His/Mr
 - ⚡ Fun fact: Showers really do spark creativity.
 - 😅 Another Fun fact: Humans are just one of the estimated 8.7 million species on Earth.
 
@@ -36,6 +53,8 @@ Here are some ideas to get you started:
 
 </div>
 <!--
+Here are some ideas to get you started:
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
