@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Swastik2000&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<a href="https://github.com/Swastik2000">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Swastik2000&&show_icons=true&title_color=bd93f9&icon_color=0E86D4&text_color=daf7dc&bg_color=151515" alt="Swastik's github stats"/>
+</a>
 
 
 
