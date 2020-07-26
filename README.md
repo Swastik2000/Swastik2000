@@ -1,5 +1,22 @@
+
 ### Hi there, I'm [Swastik Mishra!](https://swastikmishra.ml) 👋
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <br><br>
+  <samp>
+    I'm Swastik Mishra :wave:
+    <br><br>
+    I currently studying in ITER,SOA Unviersity🏫🎓 !
+    <br><br>
+    I believe in a world where Milkshakes and Coffee can solve any and all kind of problems :grin:
+    <br><br>
+    P.S. I do know that HTML is not a programming language! :v:
+  </samp>
+</p>
+
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Swastik2000&label=Views&color=blue&style=plastic" alt="Swastik2000" /> </p>
 
 
