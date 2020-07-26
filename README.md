@@ -8,7 +8,7 @@
   <samp>
     I'm Swastik Mishra :wave:
     <br><br>
-    I currently studying in ITER,SOA Unviersity🏫🎓 !
+    Currently studying in ITER, SOA Unviersity🏫🎓 !
     <br><br>
     I believe in a world where Milkshakes and Coffee can solve any and all kind of problems :grin:
     <br><br>
