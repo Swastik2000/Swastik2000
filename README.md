@@ -61,7 +61,7 @@
 
 
 
-<img align="right" src=Developer.gif/>
+<img align="right" src="https://github.com/Swastik2000/Swastik2000/blob/master/Developer.gif"/>
 <a href="https://github.com/Swastik2000">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Swastik2000&&show_icons=true&title_color=bd93f9&icon_color=0E86D4&text_color=daf7dc&bg_color=151515" alt="Swastik's github stats"/>
 </a>
