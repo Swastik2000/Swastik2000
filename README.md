@@ -69,9 +69,11 @@
 </a>
 
 
+<div align="center">
 
 <img align="centre" src="https://github.com/Swastik2000/Swastik2000/blob/master/Developer.gif"/>
 
+</div>
 
 <div align="center">
 
