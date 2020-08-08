@@ -21,6 +21,7 @@
 
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=Swastik2000&label=Views&color=blue&style=plastic" alt="Swastik2000" /> </p>
 </div>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <div align="center">
 
@@ -66,6 +67,8 @@
 [![GitHub Swastik2000](https://img.shields.io/github/followers/Swastik2000?label=follow&style=social)](https://github.com/Swastik2000)
 </div>
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/swastik2000/swastik2000)*
 
@@ -83,6 +86,7 @@
 <img align="centre" src="https://github.com/Swastik2000/Swastik2000/blob/master/Developer.gif"/>
 
 </div>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <div align="center">
 
