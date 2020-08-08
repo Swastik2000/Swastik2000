@@ -17,8 +17,12 @@
 </p>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Swastik2000&label=Views&color=blue&style=plastic" alt="Swastik2000" /> </p>
+<div align="center">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Swastik2000&label=Views&color=blue&style=plastic" alt="Swastik2000" /> </p>
+</div>
+
+<div align="center">
 
 <a href="https://twitter.com/swastikm2000">
   <img align="left" alt="Swastik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -38,6 +42,7 @@
 <a href="https://www.facebook.com/swastik.mishra.77/">
   <img align="left" alt="Swastik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+</div>
 
 
 <br/>
