@@ -53,11 +53,13 @@
 - 😅 Another Fun fact: Humans are just one of the estimated 8.7 million species on Earth.
 
 
+<div align="center">
 
 [![Twitter: swastikm2000](https://img.shields.io/twitter/follow/swastikm2000?style=social)](https://twitter.com/swastikm2000)
 [![Linkedin: swastikmishra2000](https://img.shields.io/badge/-Swastik_Mishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swastikmishra2000/)](https://www.linkedin.com/in/swastikmishra2000/)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Swastik_Mishra-2648ff?style=flat-square&logo=google-chrome)](https://swastikmishra.ml/)
 [![GitHub Swastik2000](https://img.shields.io/github/followers/Swastik2000?label=follow&style=social)](https://github.com/Swastik2000)
+</div>
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/swastik2000/swastik2000)*
