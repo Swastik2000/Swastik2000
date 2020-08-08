@@ -19,7 +19,7 @@
 <br>
 <div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Swastik2000&label=Views&color=blue&style=plastic" alt="Swastik2000" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=Swastik2000&label=Views&color=blue&style=plastic" alt="Swastik2000" /> </p>
 </div>
 
 <div align="center">
