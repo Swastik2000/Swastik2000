@@ -60,6 +60,8 @@
 [![GitHub Swastik2000](https://img.shields.io/github/followers/Swastik2000?label=follow&style=social)](https://github.com/Swastik2000)
 
 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/swastik2000/swastik2000)*
+
 
 <a href="https://github.com/Swastik2000">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Swastik2000&&show_icons=true&count_private=true&title_color=bd93f9&icon_color=0E86D4&text_color=daf7dc&bg_color=151515" alt="Swastik's github stats"/>
