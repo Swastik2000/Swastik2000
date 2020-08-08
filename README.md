@@ -86,7 +86,6 @@
 <img align="centre" src="https://github.com/Swastik2000/Swastik2000/blob/master/Developer.gif"/>
 
 </div>
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <div align="center">
 
@@ -99,6 +98,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swastik2000)]
 
