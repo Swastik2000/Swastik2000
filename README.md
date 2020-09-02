@@ -76,7 +76,7 @@
 <a href="https://github.com/Swastik2000">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Swastik2000&&show_icons=true&count_private=true&title_color=bd93f9&icon_color=0E86D4&text_color=daf7dc&bg_color=151515" alt="Swastik's github stats"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/swastik2000">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik2000&hide=php&theme=algolia" />
 </a>
 
@@ -92,6 +92,7 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
 <!--
 Here are some ideas to get you started:
 
